@@ -1,2 +1,1 @@
-# Sadguru-Krupa
-Mangal Seva
+<>index.html
